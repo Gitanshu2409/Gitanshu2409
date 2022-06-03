@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Gitanshu2409.
-- 👀 I’m interested in Coding/Programming and Linux (I am Kinda Tech Savvy.)
-- 🌱 I’m currently learning Java, Python and Linux.
-- 💞️ I’m looking to collaborate on nothing right now.
+- Yo, I’m Gitanshu2409 and I am a Tech Savvy. [I am Kind of a Begineer]
+- I’m busy in Coding/Programming and Linux
+- I’m currently learning Java, Python, Linux (Config and Ricing)
+- I’m looking to collaborate on nothing speacial but nevertheless if there are options i will do once.
+- Please check my repositories to know what am i doing these days.
